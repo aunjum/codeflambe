@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Code Flambe | Free Learning Academy</title>
+        <title>Code Flambe | Free Learning Academy In Bangadesh</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
